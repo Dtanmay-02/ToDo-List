@@ -13,7 +13,7 @@ This repository contains a simple and elegant Todo List web app built using Tail
 - Filter to-dos by status
 
 #image 
-![image](https://github.com/Dtanmay-02/ToDo-List/assets/85405920/46fa9f60-295e-4b25-a67b-50eb1f3fb678)
+![image](https://github.com/Dtanmay-02/ToDo-List/assets/85405920/e993ba7f-ab50-466b-b225-7f8240634b0d)
 
 #live Website 
 https://dtanmay-02.github.io/ToDo-List/
